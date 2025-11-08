@@ -1,4 +1,4 @@
-# DataScienceGuidedCapstone
+# Springboard DS GuidedCapstone
 
 Hello students!
 Welcome to the Data Science Guided Capstone! 
